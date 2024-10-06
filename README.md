@@ -1,0 +1,2 @@
+# safekeeper
+Notes management application
